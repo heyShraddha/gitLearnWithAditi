@@ -9,7 +9,7 @@ function convertXYZtoGHI(){
 }
 convertXYZtoGHI();
 
-// to be confirmed
-function convertGHIToQWE(){
-    abc = "qwe";
+function convertGHIToQWS(){
+    abc = "qws";
 }
+convertGHIToQWS();
