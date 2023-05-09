@@ -13,3 +13,8 @@ function convertGHIToQWE(){
     abc = "qwe";
 }
 convertGHIToQWE();
+
+function convertGHIToQWA(){
+    abc = "qwa";
+}
+convertGHIToQWA();
