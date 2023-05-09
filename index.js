@@ -9,6 +9,10 @@ function convertXYZtoGHI(){
 }
 convertXYZtoGHI();
 
+function convertGHIToQWS(){
+    abc = "qws";
+}
+convertGHIToQWS();
 function convertGHIToQWE(){
     abc = "qwe";
 }
