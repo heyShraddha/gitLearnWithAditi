@@ -13,3 +13,10 @@ function loginWithGoogle(){
     }
 }
 loginWithGoogle();
+
+function loginWithApple(){
+    if(userEmail === "aditi@gmail.com"){
+        console.log("User is Authorized");
+    }
+}
+loginWithApple();
